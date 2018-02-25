@@ -304,10 +304,45 @@
 // else if(num1 < num2){
 //     alert("The greater number of "+num1+" and "+num2+" is "+num2);
 // }
-var num = +prompt("Enter number :");
-if(num>0){
-    alert("It is positive");
-}
-else{
-    alert("It is negative");
-}
+// var num = +prompt("Enter number :");
+// if(num>0){
+//     alert("It is positive");
+// }
+// else{
+//     alert("It is negative");
+// }
+// var num = +prompt("Enter number to check the number is divisible by 3 :");
+// if(num%3==0){
+//     alert("Number is divisible by 3");
+// }
+// else{
+//     alert("Number is not divisible by 3");
+// }
+// var num = +prompt("Enter number to check even or odd :");
+// if(num%2==0){
+//     alert("It is even");
+// }
+// else{
+//     alert("It is odd");
+// }
+// var age = +prompt("Enter your age :");
+// if(age > 18){
+//     alert("Old enough");
+// }
+// else{
+//     alert("Too young");
+// }
+// var char = prompt("Enter some thing :");
+// if(char>="65" || char<="90"){
+//     alert("It is Uppercase");
+// }
+// else if(char>="97" || char<="122"){
+//     alert("It is Lowercase");
+// }
+// var year = +prompt("Enter current year :");
+// if(year%4 == 0){
+//     alert("It is leap year");
+// }
+// else{
+//     alert("It is not a leap year");
+// }
